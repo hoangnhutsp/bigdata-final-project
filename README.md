@@ -38,14 +38,25 @@ pip install -r requirements.txt
 - Cấu trúc cây thư mục chứa model
 
 .
+
 ├── ...
+
 ├── model                 
+
 │   ├── face-mask-detector          
+
 |   |   ├── deploy.prototxt
+
 |   |   ├── masknet_vgg19.h5
+
 |   |   └── res10_300x300_ssd_iter_140000.caffemodel
+
 │   └── object-detector   
+
 |       ├── coco.names
+
 |       ├── yolov3.cfg
+
 |       └── yolov3.weights       
+
 └── ...
