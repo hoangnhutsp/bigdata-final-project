@@ -1,5 +1,7 @@
 # Đồ án cuối kỳ Big Data
 
+## Video Stream Analytics: Phát hiện khẩu trang và đối tượng
+
 ### Môn học 
 - Công nghệ Dữ liệu lớn - IE212.M11
 - GV: Đỗ Trọng Hợp
