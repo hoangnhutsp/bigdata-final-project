@@ -35,28 +35,8 @@ pip install -r requirements.txt
 - Các model sử dụng tại: [link Drive](https://drive.google.com/drive/folders/1IZ2YgHekgiXqRzD3Akb5G-98j5XFYODB?usp=sharing)
 
 
-- Cấu trúc cây thư mục chứa model
+Cấu trúc cây thư mục chứa model
 
-.
+1. Thư mục **./model/face-mask-detector** chứa các file: deploy.prototxt, masknet_vgg19.h5, res10_300x300_ssd_iter_140000.caffemodel.
 
-├── ...
-
-├── model                 
-
-│   ├── face-mask-detector          
-
-|   |   ├── deploy.prototxt
-
-|   |   ├── masknet_vgg19.h5
-
-|   |   └── res10_300x300_ssd_iter_140000.caffemodel
-
-│   └── object-detector   
-
-|       ├── coco.names
-
-|       ├── yolov3.cfg
-
-|       └── yolov3.weights       
-
-└── ...
+2. Thư mục **./model/object-detector** chứa các file: coco.names, yolov3.cfg, yolov3.weights.
