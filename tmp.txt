@@ -1,0 +1,2 @@
+jupyter notebook --notebook-dir=D:/
+cd 'D:\uit\IE212 - Bigdata\final-project\'
